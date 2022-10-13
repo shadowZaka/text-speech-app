@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "text-speech--app-",
+    "slug": "snack-43bbf5d2-3caf-4fd0-bed7-78ca0e70ceba",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.krishna_k.snack43bbf5d23caf4fd0bed778ca0e70ceba"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
